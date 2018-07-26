@@ -7,5 +7,5 @@
 	remote = https://github.com/fabrizioromanelli/subtreetest_subtree
 	branch = master
 	commit = d30818f00bfd1c35ebc0c57e845f6db9d94022cc
-	parent = 6ecde44b3121458f4bdb345c6a4c87af1a9a4ab0
+	parent = 6f5ecc0c68b13343ec53f0be1d3d083d3973d5a1
 	cmdver = 0.3.1
